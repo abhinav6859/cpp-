@@ -1,5 +1,3 @@
-
-
 /* 
     abhinav's Carpet Cleaning Service
     Charges:
@@ -29,7 +27,7 @@ using namespace std;
 
 int main() {
     
-    cout << "Hello, welcome to abhinav's Carpet Cleaning Service" << endl;
+    cout << "Hello, welcome to abhinav's Carpet Cleaning Service" ;
     
     int small_rooms {0};
     cout << "\nHow many small rooms would you like cleaned? ";
