@@ -1,3 +1,16 @@
+// Arithmetic operators
+/*
+    +   addition
+    -   subtraction
+    *   multiplication
+    /   division
+    %   modulo or remainder  (works only with integers)
+    
+    +, -. * and /  operators are overloaded to work with multiple types such as int, double, etc.
+    %  only for integer types
+*/
+
+
 #include <iostream>
 #include <cmath>
 
