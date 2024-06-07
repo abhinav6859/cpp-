@@ -6,7 +6,7 @@ int main(){
     cin>> n;
 switch (n)
 {
-case 1: 
+case 1:    // or case 'a' but we can't put any float or string
 cout << " choice is 1 \n";
     break;                       // without break print all from n .
     case 2: 
