@@ -1,15 +1,10 @@
-// 
-//
+//  class defie in define_class file 
+// for take that class #include "define_class.cpp"
 #include <iostream>
+#include "define_class.cpp"
 using namespace std;
 
-class hero {
-    // properties
-   // char name[20];
-    int id;
 
-
-};
 
 int main()
 {
