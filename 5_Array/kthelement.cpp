@@ -15,7 +15,7 @@ int main (){
    /* There should be atleast two elements */
     if (n < k) // Checking if the array has less than 2 elements
     {
-        cout << " Invalid Input "; // Output message for invalid input
+        cout << " Invalid Input "; 
       
     }
  

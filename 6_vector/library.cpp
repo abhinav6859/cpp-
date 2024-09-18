@@ -36,6 +36,14 @@ int main() {
     // Remove elements at specific positions using erase()
     myVector.erase(myVector.begin() + 3);
 
+    
+
+  //  This initialization is used to create a vector that is an exact copy of other_vec.
+
+//vector<dataType> name(other_vec);
+
+
+
     // Clear all elements using clear()
     // myVector.clear();
 
