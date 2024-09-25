@@ -19,6 +19,7 @@ cout<< i<<" ";
 }
  cout << endl;
  d.pop_back();
+ d.pop_front();
  for (int i:d){
 cout<< i<<" ";
 }
