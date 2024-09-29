@@ -1,4 +1,5 @@
-
+//The functions for deque are same as vector, with an addition of push and pop operations for
+ //both front and back.  
 #include <iostream>
 #include <deque> 
 
