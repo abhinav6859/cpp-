@@ -58,5 +58,24 @@ for (itr = umap.begin();
 	// itr->second stores the value part 
 	cout << itr->first << " " << 
 			itr->second << endl; 
-} 
 }
+cout<<endl;
+
+
+			 std::unordered_map<int, int> umap1;
+    int arr[] = {10, 14, 17, 21, 20}; // Array of numbers
+    int divisor = 5;
+
+    for(int num : arr) {
+        int remainder = num % divisor;
+        umap1[remainder]++; // Increment count of this remainder
+    }
+
+    // Print out remainder counts
+    for(auto it : umap1) {
+        std::cout << "Remainder " << it.first << " appears " << it.second << " times.\n";
+    }
+
+  
+}
+

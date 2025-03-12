@@ -4,8 +4,8 @@
 
 class hero {
     // properties
-    char name[20];
-    int id;
+    // char name[20];
+    // int id;
 
 
 };

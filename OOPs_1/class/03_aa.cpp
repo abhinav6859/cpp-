@@ -1,10 +1,8 @@
 //  class defie in define_class file 
-// for take that class #include "define_class.cpp"
+// for take that class #include "04_define_class.cpp"
 #include <iostream>
-#include "define_class.cpp"
+#include "04_define_class.cpp"
 using namespace std;
-
-
 
 int main()
 {
